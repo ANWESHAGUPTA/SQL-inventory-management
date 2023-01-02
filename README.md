@@ -7,4 +7,5 @@ This project has 4 main objectives:
 2. Identify the best and the least profitable products from the menu.
 3. Identify the loyal returning customers.
 4. Identify the best performing store.
+
 There relevant ER diagram and relational schema along with business rules are also available. Under Proposal.docx
